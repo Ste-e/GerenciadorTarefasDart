@@ -12,8 +12,6 @@
 Este projeto é um gerenciador de estudos feito em **Dart**, executado diretamente pelo terminal.  
 Ele funciona como uma pequena central de organização, permitindo registrar, filtrar, modificar e visualizar tarefas acadêmicas de maneira simples e prática.
 
-O sistema também salva automaticamente as tarefas em um arquivo `.txt`, garantindo persistência entre execuções.
-
 ---
 
 ## 🚀 Funcionalidades
