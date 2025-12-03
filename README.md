@@ -1,9 +1,9 @@
 # GERENCIAMENTO DE ESTUDOS – Projeto em Dart
 
 ### **Autores**
-> Arthur Barboza Mostaço
-> Flávia Alessandra Elugo da Silva
-> Sara Maria Falcão
+> Arthur Barboza Mostaço,
+> Flávia Alessandra Elugo da Silva,
+> Sara Maria Falcão,
 > Stephany Caroline Carvalho
 
 ---
