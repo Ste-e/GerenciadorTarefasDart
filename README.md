@@ -57,4 +57,5 @@ Permite registrar:
 1. Instale o **Dart SDK**.  
 2. Coloque o código do projeto em uma pasta.  
 3. No terminal, execute:
+     dart run
 
