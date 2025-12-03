@@ -43,14 +43,6 @@ Permite registrar:
 
 ---
 
-### **Persistência em Arquivo**
-O conteúdo é salvo no arquivo `tarefas.txt` no formato:
-
-
-Ao iniciar, o programa lê o arquivo e restaura todos os dados automaticamente.
-
----
-
 ## 📂 Estrutura do Código
 - `TarefaEstudos` – classe que representa a tarefa  
 - `tarefa()` – adiciona uma nova tarefa  
@@ -59,8 +51,6 @@ Ao iniciar, o programa lê o arquivo e restaura todos os dados automaticamente.
 - `prazo()` – filtra por prazo  
 - `kanban()` – filtra por coluna kanban  
 - `modificar()` – edita ou exclui  
-- `salvarEmArquivo()` – salva no arquivo  
-- `carregarDoArquivo()` – lê o arquivo  
 - `menu()` – controla a interface no terminal  
 
 ---
